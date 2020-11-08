@@ -18,11 +18,11 @@
 
 ### checkpatch hello1.c ###
 
-![Image alt](https://github.com/hermananenko/AK2_Lab6/raw/master/images/basic_checkpatch_1.png)
+![Image alt](https://github.com/hermananenko/AK2_Lab6/raw/master/images/advanced_checkpatch_1.png)
 
 ### checkpatch hello2.c ###
 
-![Image alt](https://github.com/hermananenko/AK2_Lab6/raw/master/images/basic_checkpatch_2.png)
+![Image alt](https://github.com/hermananenko/AK2_Lab6/raw/master/images/advanced_checkpatch_2.png)
 
 ### встановлення модулів hello1 та hello2 ###
 
